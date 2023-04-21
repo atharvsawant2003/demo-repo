@@ -19,9 +19,9 @@
 
 ## Tech Stack
 
-**Client:** HTML   CSS    JAVASCRIPT
+**Client:** HTML  , CSS   ,   JAVASCRIPT
 
-**Server:**  JSON    Node
+**Server:**  JSON ,    Node
 
 **Mchine Learning**  Python 
 
@@ -51,10 +51,10 @@ For support, email vigilancesquad@2023.com or join our Slack channel.
 
 ## Authors
 
-- [@mask_boi](https://www.github.com/octokatherine)
+- [@maskboyAvi](https://github.com/maskboyAvi)
 - [@aks](https://github.com/atharvsawant2003)
-- [@PavanaSakethaRam](https://github.com/PavanaSakethaRam)
-- [@mudit07](https://github.com/ydvmudit07)
+- [@CSNPSR](https://github.com/PavanaSakethaRam)
+- [@GamezMartian](https://github.com/ydvmudit07)
 - [@ayush_lion](https://github.com/Ayushlion8)
 
 
