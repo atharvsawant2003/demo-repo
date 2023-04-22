@@ -19,10 +19,10 @@
 
 ## Tech Stack
 
-**Client:** HTML  
-            CSS   
-            JAVASCRIPT
-            bootstrap
+**Client:** <li>HTML</li>  
+            <li>CSS</li>  
+            <li>JAVASCRIPT</li>  
+           <li>bootstrap</li>  
 
 **Server:**  JSON
              Node
