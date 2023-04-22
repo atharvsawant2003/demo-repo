@@ -7,11 +7,14 @@
 <img src="docs/img/Screenshot 2023-04-18 at 7.13.46 PM.png">
 
 
-## Overview 👨‍⚕️
+## Overview 🤖
 
   The project aims to develop a system for violence detection using CCTV footage and providing an immediate alert to the police. The system will use advanced image     processing and machine learning techniques to analyze the CCTV footage in real-time and detect any violent behavior or actions. Once detected, an automatic alert     will be sent to the police, enabling them to respond quickly and take appropriate action. The system has the potential to enhance public safety and reduce crime     rates in public areas.
 
-## Features 🏥
+## Features 🦾
+Light/dark mode toggle
+
+
 
 ## Flow of the Project 💻
 <li>User Login </li>
@@ -25,7 +28,7 @@
 - Add more integrations
 
 
-## Tech Stack
+## Tech Stack 🧑🏻‍💻
 
 **Client:** <li>HTML</li>  
             <li>CSS</li>  
@@ -52,6 +55,10 @@ Install the Basic libaray
 ```bash
    npm install flask
 ```
+## Lessons Learned 🧠💡
+
+What did you learn while building this project? What challenges did you face and how did you overcome them?
+
 ## Support
 
 For support, email vigilantsquads@gmail.com 
@@ -71,7 +78,7 @@ For support, email vigilantsquads@gmail.com
 
 If you have any feedback, please reach out to us at vigilantsquads@gmail.com
 
-## Project Map
+
 
 
 
