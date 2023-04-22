@@ -2,7 +2,7 @@
 
 # Guardian Vision
 
- violence detection ML model to detect suspicious activities in real-time through CCTV or any camera, and send immediate alert to the respective authorities.
+ Violence detection ML model to detect suspicious activities in real-time through CCTV or any camera, and send immediate alert to the respective authorities.
 
 
 ## Screenshots
@@ -19,14 +19,18 @@
 
 ## Tech Stack
 
-**Client:** HTML  , CSS   ,   JAVASCRIPT
+**Client:** HTML  
+            CSS   
+            JAVASCRIPT
+            bootstrap
 
-**Server:**  JSON ,    Node
+**Server:**  JSON
+             Node
 
 **Mchine Learning**  Python 
 
 
-## Demo
+## Description
 
 Insert gif or link to demo
 
@@ -46,7 +50,8 @@ Install the Basic libaray
 ```
 ## Support
 
-For support, email vigilancesquad@2023.com or join our Slack channel.
+For support, email vigilantsquads@gmail.com 
+
 
 
 ## Authors
@@ -60,7 +65,10 @@ For support, email vigilancesquad@2023.com or join our Slack channel.
 
 ## Feedback
 
-If you have any feedback, please reach out to us at vigilancesquad@2023.com 
+If you have any feedback, please reach out to us at vigilantsquads@gmail.com
+
+## Project Map
+
 
 
 
