@@ -4,10 +4,18 @@
 
  Violence detection ML model to detect suspicious activities in real-time through CCTV or any camera, and send immediate alert to the respective authorities.
 
+<img src="docs/img/Screenshot 2023-04-18 at 7.13.46 PM.png">
 
-## Screenshots
 
-![App Screenshot](https://en.wikipedia.org/wiki/Image#mediaFile:Pencil_drawing_of_a_girl_in_ecstasy.jpg)
+## Overview 👨‍⚕️
+
+  The project aims to develop a system for violence detection using CCTV footage and providing an immediate alert to the police. The system will use advanced image     processing and machine learning techniques to analyze the CCTV footage in real-time and detect any violent behavior or actions. Once detected, an automatic alert     will be sent to the police, enabling them to respond quickly and take appropriate action. The system has the potential to enhance public safety and reduce crime     rates in public areas.
+
+## Features 🏥
+
+## Flow of the Project 💻
+<li>User Login </li>
+ <p>The patient and doctor log in to the platform using their registered email and password.</p>
 
 
 ## Roadmap
@@ -24,17 +32,13 @@
             <li>JAVASCRIPT</li>  
            <li>bootstrap</li>  
 
-**Server:**  JSON
-             Node
+**Server:** <li> JSON</li>  
+             <li> Node</li>  
 
-**Mchine Learning**  Python 
+**Mchine Learning**  <li> Python </li>  
 
 
-## Description
 
-Insert gif or link to demo
-
-The project aims to develop a system for violence detection using CCTV footage and providing an immediate alert to the police. The system will use advanced image processing and machine learning techniques to analyze the CCTV footage in real-time and detect any violent behavior or actions. Once detected, an automatic alert will be sent to the police, enabling them to respond quickly and take appropriate action. The system has the potential to enhance public safety and reduce crime rates in public areas.
 ## Installation
 
 Install my-project with npm
@@ -54,7 +58,7 @@ For support, email vigilantsquads@gmail.com
 
 
 
-## Authors
+## Team Members 🧑‍🤝‍🧑
 
 - [@maskboyAvi](https://github.com/maskboyAvi)
 - [@aks](https://github.com/atharvsawant2003)
