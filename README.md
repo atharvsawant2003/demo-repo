@@ -1,14 +1,14 @@
 
 
 # Guardian Vision 
- <div>
- <img src="WhatsApp Image 2023-04-23 at 19.39.37.jpg"  width="400px",height="400px">
- </div>
+ <p>
+ <img src="WhatsApp Image 2023-04-23 at 19.39.37.jpg"  width="100px",height="100px">
+ </p>
 
 
  Violence detection ML model to detect suspicious activities in real-time through CCTV or any camera, and send immediate alert to the respective authorities.
  
-  <img src="WhatsApp Image 2023-04-23 at 19.39.37.jpg"  width="400px",height="400px">
+ 
 
 
 
