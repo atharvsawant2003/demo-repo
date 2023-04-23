@@ -4,7 +4,7 @@
 
  Violence detection ML model to detect suspicious activities in real-time through CCTV or any camera, and send immediate alert to the respective authorities.
 
-<img src="docs/img/Screenshot 2023-04-18 at 7.13.46 PM.png">
+<img src="WIN_20230423_05_13_06_Pro.png">
 
 
 ## Overview 🤖
