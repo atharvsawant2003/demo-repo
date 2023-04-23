@@ -1,13 +1,13 @@
 
 
-# Guardian Vision 
-<span><img src="WhatsApp Image 2023-04-23 at 19.39.37.jpg"  width="100px",height="100px"></span>
+# Guardian Vision
 
 
- Violence detection ML model to detect suspicious activities in real-time through CCTV or any camera, and send immediate alert to the respective authorities.
- 
- 
 
+<p> <img src="https://user-images.githubusercontent.com/124444723/233845771-bd346166-71c1-4213-a015-9ce94515c755.jpg" alt="Guardian Vision Logo" width="100px" height="100px" style="background: #fff;"> </p>
+
+
+<p> Violence detection ML model to detect suspicious activities in real-time through CCTV or any camera, and send immediate alert to the respective authorities. </p>
 
 
 ## Overview 🤖
